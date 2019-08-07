@@ -1,5 +1,4 @@
 SampleID	Expected_call	Aldy_call
 SIM043		*36/*2A		*16/*61+*61
-SIM050		*4N/*10A	*16/*61+*61
 SIM054		*4N/*36		*76/*61+*61
 SIM065		*57+*10D/*45A	[No Result]
